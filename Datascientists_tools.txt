@@ -1,8 +1,25 @@
-Hadoop et son ÈcosystËme,
-No SQL (Cassandra, MongoDB, HBase, Ö),
-Search (ElasticSearch, Solr, Ö),
-FastData (Complex Event Processing, Stream Processing, In memory Technology, Ö)
-Analytics ( Spotfire, QlikView, Kibana, Tableau, Ö)
-Des connaissances en Data Science sont un plus :
 
-Data Science (R, SPSS, Machine learning, statistiques, recherche opÈrationnelle, thÈorie des graphes, Text-Mining, NLP, Ö)
+BIG DATA : Hadoop et son √©cosyst√®me,
+
+Base de donn√©es :
+No SQL (Cassandra, MongoDB, HBase, ‚Ä¶),
+
+Moteurs de recherche temps r√©el:
+Search (ElasticSearch, Solr, ‚Ä¶),
+
+Languages de programmation statistiques :
+(R, SPSS, SAS, Matlab)
+
+Disciplines Scientifiques :
+(Intelligence Artificielle IA - Robotique / Machine learning ML , Statistiques, Recherche op√©rationnelle, Th√©orie des graphes, Text-Mining, Optimisation non lin√©aire / Non Linear Processing NLP ..)
+
+Valorisation en temps r√©el des donn√©es/FastData (data in motion):
+(Complex Event Processing, Stream Processing, In memory Technology, ‚Ä¶)
+
+Visualisation de Donn√©es /Data Visualisation with Analytics tools:
+( Spotfire, QlikView, Kibana, Tableau, ‚Ä¶)
+
+
+
+"I think of data scientists as knowing more about statistics than computer scientists and more about computer science than statisticians", Michael O'Connell (KDnuggets Interview - May, 2014)
+
