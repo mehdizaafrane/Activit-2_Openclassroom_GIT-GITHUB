@@ -1,0 +1,8 @@
+Hadoop et son écosystème,
+No SQL (Cassandra, MongoDB, HBase, …),
+Search (ElasticSearch, Solr, …),
+FastData (Complex Event Processing, Stream Processing, In memory Technology, …)
+Analytics ( Spotfire, QlikView, Kibana, Tableau, …)
+Des connaissances en Data Science sont un plus :
+
+Data Science (R, SPSS, Machine learning, statistiques, recherche opérationnelle, théorie des graphes, Text-Mining, NLP, …)
